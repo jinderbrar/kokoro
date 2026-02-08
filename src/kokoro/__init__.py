@@ -1,2 +1,5 @@
-def hello() -> str:
-    return "Hello from kokoro!"
+from .layers import *
+
+
+def hello():
+    print("Hello from kokoro!")
