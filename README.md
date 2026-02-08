@@ -1,6 +1,14 @@
+# 🧠 Kokoro
+
+A small language model experiment built from scratch. 🔬
+
+Exploring efficient architectures. Let's see how this goes. ✨
+
+---
 
 
+### ⚠️ Fair Warning ⚠️
 
-# Kokoro (心)
+If you found this repo archived, it didn't work. 📦
+If you found this active, it's probably not working either but I haven't given up yet! 🚀
 
-An experimental 1.58-bit hybrid architecture designed for recursive logic and extreme inference efficiency.

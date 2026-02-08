@@ -33,3 +33,6 @@ checkpoints/
 .vscode/
 .claude/
 .idea/
+
+# --- Project Planning (Internal) ---
+.project-docs/
