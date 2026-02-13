@@ -19,6 +19,7 @@ wheels/
 # Never upload your training data or your actual model weights
 data/
 checkpoints/
+outputs/
 *.pt
 *.pth
 *.bin
@@ -27,6 +28,14 @@ checkpoints/
 # --- Jupyter Notebooks ---
 .ipynb_checkpoints
 .ipynb_checkpoints/
+notebooks/general/
+
+# --- Local Run Scripts ---
+scripts/run_test_training.sh
+scripts/run_test_training.bat
+scripts/run_test_training.py
+setup_cuda.py
+nul
 
 # --- OS & IDE ---
 .DS_Store

@@ -34,6 +34,9 @@ from . import fn
 # Model and config
 from .model import KokoroConfig, KokoroLM
 
+# Training
+from .train import Trainer
+
 __all__ = [
     # Layers
     "BitLinear",
@@ -52,6 +55,8 @@ __all__ = [
     # Model
     "KokoroConfig",
     "KokoroLM",
+    # Training
+    "Trainer",
 ]
 
 
