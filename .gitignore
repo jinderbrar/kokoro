@@ -17,7 +17,7 @@ wheels/
 
 # --- Data & Weights (THE MOST IMPORTANT PART) ---
 # Never upload your training data or your actual model weights
-data/
+/data/
 checkpoints/
 outputs/
 *.pt
